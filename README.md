@@ -1,3 +1,3 @@
 # Hackerrank-Problems
-Implementation
-        1. Stock Merchant
+Implementation:
+		1. Stock Merchant
