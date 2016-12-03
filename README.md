@@ -4,3 +4,6 @@
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
+3. HourRank 15
+  1. Cat And Mouse
+  2. Gamming Array
