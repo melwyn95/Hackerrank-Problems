@@ -52,6 +52,27 @@ def seive(start, end):
         start += 2
     print count
 
-s = 999000000 #int(raw_input())
-e = 1000000000#int(raw_input())
-seive(s, e)
+def act_seive(n, m):
+    number = [True] * (m + 1)
+    prime = []
+    for i in range(2, m + 1):
+        if number[i]:
+            j = i * 2
+            while j <= m:
+                number[j] = False
+                j += i
+    for i in range(n, m+1):
+        if number[i]:
+            prime.append(i)
+    return prime
+# s = 2 #int(raw_input())
+# e = 50#int(raw_input())
+i = raw_input().split(" ")
+n, m = int(i[0]), int(i[1])
+prime = act_seive(n, m)
+l = len(prime) - 1
+count = 0
+for i in range(l):
+    if prime[i + 1] - prime[i] == 2:
+        count += 1
+print count 
