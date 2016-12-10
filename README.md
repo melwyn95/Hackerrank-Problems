@@ -9,3 +9,5 @@
   2. Gamming Array
   3. Twins (Checked Out Editorial)
   4. Satisfactory Pairs
+3. Mathematics
+  1. Identify Smith Numbers
