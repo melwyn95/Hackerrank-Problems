@@ -14,7 +14,7 @@
   2. Power Of Numbers (Checked Out Editorial)
   3. Fibonacci Finding (Matrix Exponentition)
   4. Leonardo's Prime Factors
-5. WorllCodeSprint:
+5. WorldCodeSprint:
   1. Snake Case
   2. Climbing The Leader Board (Checked Editorial) (Two Pointer)
 6. WeekOfCode 27:
