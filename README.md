@@ -16,7 +16,7 @@
   4. Leonardo's Prime Factors
 5. WorllCodeSprint:
   1. Snake Case
-  2. Climbing The Leader Board
+  2. Climbing The Leader Board (Checked Editorial) (Two Pointer)
 6. WeekOfCode 27:
   1. Drawing Book
   2. Tailor Shop
