@@ -11,6 +11,7 @@
   4. Satisfactory Pairs
 4. Mathematics:
   1. Identify Smith Numbers
+  2. Power Of Numbers (Checked Out Editorial)
 5. WorllCodeSprint:
   1. Snake Case
   2. Climbing The Leader Board
