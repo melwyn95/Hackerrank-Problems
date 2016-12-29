@@ -2,6 +2,7 @@
 1. Implementation:
   1. Stock Merchant
   2. Beautiful Days At The Movies
+  3. Save The Prisoner!
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
