@@ -23,3 +23,5 @@
   1. Drawing Book
   2. Tailor Shop
   3. Hackonacci Matrix Rotations
+7. Strings
+  1. Two Characters
