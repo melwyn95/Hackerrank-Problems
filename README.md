@@ -4,6 +4,8 @@
   2. Beautiful Days At The Movies
   3. Save The Prisoner!
   4. Designer PDF Viewer
+  5. Happy Ladybugs
+  6. Min Max Sum
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
