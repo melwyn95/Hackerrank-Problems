@@ -29,6 +29,8 @@
   3. Hackonacci Matrix Rotations
 7. Strings
   1. Two Characters
-  2. Super Reduced Strings 
+  2. Super Reduced Strings
 8. Greedy
   1. Maximum Perimeter Triangle
+9. Search
+  1. Hackerland Radio Transmitters
