@@ -29,6 +29,6 @@
   3. Hackonacci Matrix Rotations
 7. Strings
   1. Two Characters
-  2. Super Reduced Strings (Does not pass All Cases WORK ON IT)
+  2. Super Reduced Strings 
 8. Greedy
   1. Maximum Perimeter Triangle

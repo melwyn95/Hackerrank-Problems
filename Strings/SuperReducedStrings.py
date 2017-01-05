@@ -1,10 +1,20 @@
 s = raw_input()
-s_set = list(set(list(s)))
-s_print = ""
-for i in s_set:
-    count = s.count(i) % 2
-    s_print += (i * count)
-if len(s_print) > 0:
-    print s_print
+flag = True
+while flag:
+    i = 0
+    while i < len(s):
+        if i+1 == len(s):
+            flag = False
+            break
+        #print s[i], s[i+1], s
+        if s[i] == s[i+1]:
+            s = s[:i] + s[i+2:]
+            flag = True
+            break
+        i += 1
+    if i == len(s):
+        flag = False
+if len(s) > 0:
+    print s
 else:
     print "Empty String"
