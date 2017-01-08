@@ -6,6 +6,8 @@
   4. Designer PDF Viewer
   5. Happy Ladybugs
   6. Min Max Sum
+  7. Apple and Orange
+  8. Manasa And Stones
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
@@ -34,4 +36,4 @@
   1. Maximum Perimeter Triangle
 9. Search
   1. Hackerland Radio Transmitters
-  2. GridLand Metro (Read Up?? Yet to solve)
+  2. GridLand Metro
