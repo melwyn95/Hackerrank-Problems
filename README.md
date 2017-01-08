@@ -8,6 +8,7 @@
   6. Min Max Sum
   7. Apple and Orange
   8. Manasa And Stones
+  9. Almost Sorted
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
@@ -25,7 +26,7 @@
 5. WorldCodeSprint:
   1. Snake Case
   2. Climbing The Leader Board (Checked Editorial) (Two Pointer)
-6. WeekOfCode 27:
+6. WeekOfCode 27: (BRONZE)
   1. Drawing Book
   2. Tailor Shop
   3. Hackonacci Matrix Rotations
