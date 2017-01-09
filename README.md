@@ -9,6 +9,7 @@
   7. Apple and Orange
   8. Manasa And Stones
   9. Almost Sorted
+  10. Strange Counter
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
