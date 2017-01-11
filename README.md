@@ -42,3 +42,6 @@
 10. Week Of Code 28
   1. Boat Trips
   2. The Great XOR
+
+ 11 / 10 / 2017 : Did not code anything..... Feeling exhausted .....
+                  Hope to have a fresh start tomorrow
