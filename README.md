@@ -40,9 +40,10 @@
   1. Hackerland Radio Transmitters
   2. GridLand Metro
   3. Sherlock And The Array
+  4. Pairs
 10. Week Of Code 28
   1. Boat Trips
   2. The Great XOR
 
  11 / 10 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
- 12 / 10 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum 
+ 12 / 10 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
