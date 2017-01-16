@@ -45,5 +45,8 @@
   1. Boat Trips
   2. The Great XOR
 
- 11 / 10 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
- 12 / 10 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
+
+11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
+12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
+15 / 01 / 2017 : No code today went to watch EIC
+16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
