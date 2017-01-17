@@ -10,6 +10,7 @@
   8. Manasa And Stones
   9. Almost Sorted
   10. Strange Counter
+  11. Absolute Permutation
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
@@ -46,7 +47,7 @@
   2. The Great XOR
 
 
-11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
-12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
-15 / 01 / 2017 : No code today went to watch EIC
-16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
+###11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
+###12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
+###15 / 01 / 2017 : No code today went to watch EIC
+###16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
