@@ -45,6 +45,10 @@
 10. Week Of Code 28
   1. Boat Trips
   2. The Great XOR
+11. 101 Hack 45
+  1. Sequence Equation
+  2. Minimum Edges In Layered Graph (Understood the solution... Implement it later)
+  3. The Chosen One (Did not solve completely... Look at Editorial and solve it)
 
 
 ###11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
