@@ -37,6 +37,7 @@
   2. Super Reduced Strings
 8. Greedy
   1. Maximum Perimeter Triangle
+  2. Luck Balance
 9. Search
   1. Hackerland Radio Transmitters
   2. GridLand Metro
