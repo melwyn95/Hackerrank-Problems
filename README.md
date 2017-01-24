@@ -56,3 +56,4 @@
 ###12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
 ###15 / 01 / 2017 : No code today went to watch EIC
 ###16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
+###24 / 01 / 2017 : Did not code. Exhausted
