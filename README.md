@@ -35,6 +35,7 @@
 7. Strings
   1. Two Characters
   2. Super Reduced Strings
+  3. Sherlock and Anagrams
 8. Greedy
   1. Maximum Perimeter Triangle
   2. Luck Balance
@@ -54,8 +55,9 @@
   1. Back To Origin
   2. MatchStick Warehouse Theif
 
-###11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
-###12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
-###15 / 01 / 2017 : No code today went to watch EIC
-###16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
-###24 / 01 / 2017 : Did not code. Exhausted
+#####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
+#####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
+#####15 / 01 / 2017 : No code today went to watch EIC
+#####16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
+#####24 / 01 / 2017 : Did not code. Exhausted
+#####28 / 01 / 2017 : Solved a question finally after a long Gap. Solved Sherlock and Anagrams (used Buckets)
