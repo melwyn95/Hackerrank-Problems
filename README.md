@@ -55,6 +55,10 @@
 12. CodeAgon
   1. Back To Origin
   2. MatchStick Warehouse Theif
+13. Rookie Rank 2
+  1. Migratory Birds
+  2. Minimum Absolute Difference in an Array
+  3. Hackerrank in a String
 
 #####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
 #####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
