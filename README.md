@@ -59,6 +59,7 @@
   1. Migratory Birds
   2. Minimum Absolute Difference in an Array
   3. Hackerrank in a String
+  4. KnightL on a Chessboard
 
 #####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
 #####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
