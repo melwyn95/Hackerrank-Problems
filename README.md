@@ -67,3 +67,4 @@
 #####16 / 01 / 2017 : Solved Pairs (Search) .... The mistake in previous solution was O(n^2) .... Reduced the complexity to O(nlogn)
 #####24 / 01 / 2017 : Did not code. Exhausted
 #####28 / 01 / 2017 : Solved a question finally after a long Gap. Solved Sherlock and Anagrams (used Buckets)
+#####11 / 02 / 2017 : Solved Knights on Chessboard.... (BFS) .... very interesting problem...
