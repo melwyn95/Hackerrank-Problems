@@ -69,3 +69,4 @@
 #####28 / 01 / 2017 : Solved a question finally after a long Gap. Solved Sherlock and Anagrams (used Buckets)
 #####11 / 02 / 2017 : Solved Knights on Chessboard.... (BFS) .... very interesting problem...
 #####12 / 02 / 2017 : No code today.... Had Cold.... :( :()
+#####14 / 02 / 2017 : Disappointing performance in 101Hack46...Please Take Life Serously... Follow your passion .....PLZZZZ
