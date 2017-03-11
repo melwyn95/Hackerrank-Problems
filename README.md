@@ -46,6 +46,7 @@
   3. Sherlock And The Array
   4. Pairs
   5. Count Luck (DFS)
+  6. Connected Cells in a Grid (DFS)
 10. Week Of Code 28
   1. Boat Trips
   2. The Great XOR
