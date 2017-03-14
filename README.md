@@ -66,6 +66,9 @@
   1. Swap Nodes
 15. University Codesprint 2
   1. Breaking The Records
+16. WeekOfCode 30
+  1. Candy Replenishing Robot
+  2. Find the Minimum Number
 
 #####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
 #####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memorising Left sum and Right Sum
@@ -77,3 +80,4 @@
 #####12 / 02 / 2017 : No code today.... Had Cold.... :( :()
 #####14 / 02 / 2017 : Disappointing performance in 101Hack46...Please Take Life Serously... Follow your passion .....PLZZZZ
 #####15 / 02 / 2017 : Solved Swap Node... Problem was easy... But Implementation was a bit tricky
+#####14 / 03 / 2017 : Returning to Hackerrank after a long time.... was able to solve 2 easy problems
