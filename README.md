@@ -11,6 +11,8 @@
   9. Almost Sorted
   10. Strange Counter
   11. Absolute Permutation
+  12. Birthday Cake Candles
+  13. Encryption
 2. WeekOfCode 26:
   1. Army Game
   2. Best Divisor
