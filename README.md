@@ -72,6 +72,8 @@
   1. Candy Replenishing Robot
   2. Find the Minimum Number
   3. Melodious password
+17. Sorting
+  1. Big Sorting
 
 #####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
 #####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memoizing Left sum and Right Sum
