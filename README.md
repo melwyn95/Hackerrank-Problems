@@ -74,6 +74,9 @@
   3. Melodious password
 17. Sorting
   1. Big Sorting
+  
+Codin Game
+1. Queue > War Game
 
 #####11 / 01 / 2017 : Did not code anything..... Feeling exhausted ..... Hope to have a fresh start tomorrow
 #####12 / 01 / 2017 : Solved Sherlock And The Array (Search) ... The mistake in previous solution was recalculating sum of the array O(n).... Fixed that be memoizing Left sum and Right Sum
